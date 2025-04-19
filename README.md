@@ -13,8 +13,10 @@ In contrast, widely-used email services like Microsoft Outlook, Gmail, and Zoho 
 
 ## Requirements
 - Python 3.x
+- This is an optional procedure since it is not free
 - LLAMA API Key (I used https://deepinfra.com, needs `openai==0.28`)
 - IMAP Server Credentials (refer [accessing-gmail-inbox-using-python-imaplib-module](https://pythoncircle.com/post/727/accessing-gmail-inbox-using-python-imaplib-module/) to create your gmail python app password)
+- other than this procedure i have  
 - Streamlit
 
 ## Installation
