@@ -16,11 +16,11 @@ EmailGenius is an AI-driven email categorization tool that automates the process
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/0xrushi/emailgenius.git
+   git clone https://github.com/srishti9368/Email-classifier.git
    ```
 2. Navigate to the project directory:
    ```
-   cd emailgenius
+   cd Email-classifier
    ```
 3. Install the required Python packages:
    ```
